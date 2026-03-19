@@ -14,5 +14,5 @@
 # Architecture
 - Database + budgeting: sqlite database + skills.md / database schemas
 - Research: Web search toolings (selenium/playwright), news APIs, trading APIs (for example, YAHOO)
-- Automation: monitor of different investment instruments in real time to sho recommendations to the different users
-- Iterative: agent learns based on the outcomes of each user, to avoid mistakes
+- Automation: monitor of different investment instruments in real time to show recommendations to the different users
+- Iterative: agent learns based on the outcomes of each user, to avoid repeat mistakes
